@@ -1,0 +1,9 @@
+html,body{height:100%;}
+.carousel,.item,.active{height:100%;}
+.carousel-inner{height:100%;}
+img{height:100%; width:100%;}
+
+.about-me{
+	color: black;
+	opacity: 0.4;
+}
